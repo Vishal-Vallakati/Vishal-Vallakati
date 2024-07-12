@@ -6,9 +6,7 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a dedicated and skilled Information Security Analyst with over 2.5 years of experience at Amazon, and a Master's degree in Cybersecurity, I am seeking new job opportunities in the fields of Identity and Access Management (IAM), Cybersecurity Engineering, SOC Analysis, and Cloud Engineering. My professional background encompasses expertise in IAM, threat detection and response, and cloud security, driven by a passion for protecting and securing information assets. I aim to leverage my practical experience and academic knowledge to contribute to the security and resilience of innovative organizations. I am eager to connect with professionals and organizations committed to cybersecurity excellence and innovation to explore potential opportunities and collaborations.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
