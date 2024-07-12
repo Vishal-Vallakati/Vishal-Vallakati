@@ -48,6 +48,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### IAM Tools
 <div>
     <img src="https://img.shields.io/badge/-Okta-007DC1?&style=for-the-badge&logo=Okta&logoColor=white" />
+     <img src="https://img.shields.io/badge/-PingFederate-FFA500?&style=for-the-badge&logo=PingFederate&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PingID-FF0000?&style=for-the-badge&logo=PingID&logoColor=white" />
 </div>
 
 ## Certifications
