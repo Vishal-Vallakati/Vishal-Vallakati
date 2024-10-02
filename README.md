@@ -1,4 +1,5 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Vishal Vallakati
+
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -85,35 +86,39 @@ As a dedicated and skilled Information Security Analyst with over 2.5 years of e
 
 ## Certifications
 <div>
+        <a href="https://www.credly.com/badges/f87b8ba9-da03-498c-82b8-1f9c2dbf1f32/linked_in_profile" target="_blank">
 
         <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-        <a href="https://www.credly.com/badges/f87b8ba9-da03-498c-82b8-1f9c2dbf1f32/linked_in_profile" target="_blank">
     </a>
-        <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
         <a href="https://www.credly.com/badges/157d3c6e-5b27-4233-81cc-195416a3508a/linked_in_profile" target="_blank">
-    </a>
 
-        <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+        <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    </a>
+    
         <a href="https://www.udemy.com/certificate/UC-ce0c132e-bc40-4f54-8a6b-5ae2b6714db0/" target="_blank">
+        <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
     </a>
     
-        <img src="https://img.shields.io/badge/-ISC2%20Candidate-00CC66?&style=for-the-badge&logo=ISC2&logoColor=white" />
         <a href="https://www.credly.com/badges/3df6f88a-0c50-4899-bcb5-7d08111b01e9/linked_in_profile" target="_blank">
+        <img src="https://img.shields.io/badge/-ISC2%20Candidate-00CC66?&style=for-the-badge&logo=ISC2&logoColor=white" />
+        
     </a>
-    
-        <img src="https://img.shields.io/badge/-JPMorgan%20Cybersecurity%20Simulation-007DB8?&style=for-the-badge&logo=JPMorganChase&logoColor=white" />
         <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._oMe5zhSkPwkGwJk7F_1719710817949_completion_certificate.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/-JPMorgan%20Cybersecurity%20Simulation-007DB8?&style=for-the-badge&logo=JPMorganChase&logoColor=white" />
     </a>
     
-        <img src="https://img.shields.io/badge/-Tata%20Cybersecurity%20Simulation-EB5B1A?&style=for-the-badge&logo=TataGroup&logoColor=white" />
         <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/gmf3ypEXBj2wvfQWC_Tata%20Group_oMe5zhSkPwkGwJk7F_1720460965743_completion_certificate.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/-Tata%20Cybersecurity%20Simulation-EB5B1A?&style=for-the-badge&logo=TataGroup&logoColor=white" />
     </a>
 </div>
 
 ## 📚 Publications
- **A Novel Design of 16-bit Fin-FET Carry Look Ahead Adder in 18nm Technology
-https://ijamtes.org/VOL-9-ISSUE-05-2019-2/**  
+ **A Novel Design of 16-bit Fin-FET Carry Look Ahead Adder in 18nm Technology**
+ 
+**https://ijamtes.org/VOL-9-ISSUE-05-2019-2/**  
+
 **DOI:16.10089.IJMTE.2019.V9I5.19.28319**
+
   *Author(s)*: Vishal Vallakati, Dr. Sudhakar Alluri, Om Prakash Reddy, Gayathri.  
   *Journal/Conference*: International Journal of Management Technology and Engineering · May 10, 2019 
   *Description*: The project focuses on the design and analysis of a 16-bit full adder using Fin-FET technology, emphasizing the Carry-Look Ahead Adder (CLA) architecture. This architecture is known for its  speed, accuracy, and low power consumption, making it ideal for portable devices. The CLA architecture is compared with other binary adders like ripple carry adder, carry skip adder, and prefix 
