@@ -8,18 +8,15 @@ I am a graduate in Masters in Cybersecurity also a dedicated and highly skilled 
 ## Objective
 As a dedicated and skilled Information Security Analyst with over 2.5 years of experience at Amazon, and a Master's degree in Cybersecurity, I am seeking new job opportunities in the fields of Identity and Access Management (IAM),Cybersecurity Analyst, Cybersecurity Engineering, SOC Analyst, and Cloud Engineering. My professional background encompasses expertise in IAM, threat detection and response, and cloud security, driven by a passion for protecting and securing information assets. I aim to leverage my practical experience and academic knowledge to contribute to the security and resilience of innovative organizations. I am eager to connect with professionals and organizations committed to cybersecurity excellence and innovation to explore potential opportunities and collaborations.
 
-## Skills
-
-| Skill                                         | Tools     |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
+
+### Scripting languages
+**Programming Languages**: C, Python, SQL
+**Big Data Tools:** PySpark, HDFS
+**Version Control**: Git
+**Scripting Languages**: PowerShell, Bash, Shell
+**Operating Systems**: Linux/Unix
 
 ### Networking
 <div>
@@ -60,6 +57,14 @@ As a dedicated and skilled Information Security Analyst with over 2.5 years of e
     <img src="https://img.shields.io/badge/-ServiceNow-007DBA?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zendesk-03363D?&style=for-the-badge&logo=Zendesk&logoColor=white" />
 </div>
+
+
+### Databases
+[![AWS Redshift](https://img.shields.io/badge/-AWS%20Redshift-3F9BDB?&style=for-the-badge&logo=AmazonRedshift&logoColor=white)](https://aws.amazon.com/redshift/)
+[![Snowflake](https://img.shields.io/badge/-Snowflake-00B2E2?&style=for-the-badge&logo=Snowflake&logoColor=white)](https://www.snowflake.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![SQL](https://img.shields.io/badge/-SQL-4F8BFF?&style=for-the-badge&logo=MicrosofSQLServer&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?&style=for-the-badge&logo=AmazonS3&logoColor=white)](https://aws.amazon.com/s3/)
 
 ## Cybersecurity Standards
 <div>
@@ -106,7 +111,9 @@ As a dedicated and skilled Information Security Analyst with over 2.5 years of e
 **DOI:16.10089.IJMTE.2019.V9I5.19.28319**
 
   *Author(s)*: Vishal Vallakati, Dr. Sudhakar Alluri, Om Prakash Reddy, Gayathri.  
+  
   *Journal/Conference*: International Journal of Management Technology and Engineering · May 10, 2019 
+  
   *Description*: The project focuses on the design and analysis of a 16-bit full adder using Fin-FET technology, emphasizing the Carry-Look Ahead Adder (CLA) architecture. This architecture is known for its  speed, accuracy, and low power consumption, making it ideal for portable devices. The CLA architecture is compared with other binary adders like ripple carry adder, carry skip adder, and prefix 
 adder in terms of speed, area, and power consumption. By leveraging the efficiency of the CLA, the design reduces the number of required gates, ensuring fast addition operations. This technology-independent design provides significant insights into the development of high-performance semiconductor devices, crucial for modern VLSI technology..
 
