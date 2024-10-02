@@ -1,6 +1,8 @@
 # Hello, I'm Vishal Vallakati
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishalvallakati5@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 
 I am a graduate in Masters in Cybersecurity also a dedicated and highly skilled Security Operations Center (SOC) Analyst with a proven track record at Amazon, I played a key role in safeguarding the organization's digital infrastructure, leveraging advanced SIEM tools(Splunk), IDS/IPS technologies, and threat intelligence platforms to identify and neutralize potential threats. My hands-on approach to security incident management, combined with a deep understanding of cloud security and data protection, enabled me to respond to and resolve incidents efficiently, minimizing impact and preventing future occurrences.
@@ -13,9 +15,13 @@ As a dedicated and skilled Information Security Analyst with over 2.5 years of e
 
 ### Scripting languages
 **Programming Languages**: C, Python, SQL
+
 **Big Data Tools:** PySpark, HDFS
+
 **Version Control**: Git
+
 **Scripting Languages**: PowerShell, Bash, Shell
+
 **Operating Systems**: Linux/Unix
 
 ### Networking
