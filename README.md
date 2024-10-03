@@ -103,6 +103,7 @@ As a dedicated and skilled Information Security Analyst with over 2.5 years of e
 [![AWS Solutions Architect](https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white)](https://www.udemy.com/certificate/UC-ce0c132e-bc40-4f54-8a6b-5ae2b6714db0/)
 
 [![ISC2 Candidate](https://img.shields.io/badge/-ISC2%20Candidate-00CC66?&style=for-the-badge&logo=ISC2&logoColor=white)](https://www.your-link-to-isc2-candidate.com)
+
 [![JPMorgan Cybersecurity Simulation](https://img.shields.io/badge/-JPMorgan%20Cybersecurity%20Simulation-007DB8?&style=for-the-badge&logo=JPMorganChase&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._oMe5zhSkPwkGwJk7F_1719710817949_completion_certificate.pdf)
 
 [![Tata Cybersecurity Simulation](https://img.shields.io/badge/-Tata%20Cybersecurity%20Simulation-EB5B1A?&style=for-the-badge&logo=TataGroup&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/gmf3ypEXBj2wvfQWC_Tata%20Group_oMe5zhSkPwkGwJk7F_1720460965743_completion_certificate.pdf)
