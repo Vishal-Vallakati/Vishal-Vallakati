@@ -9,6 +9,8 @@ I am a graduate in Masters in Cybersecurity also a dedicated and highly skilled 
 
 ## Objective
 As a dedicated and skilled Information Security Analyst with over 2.5 years of experience at Amazon, and a Master's degree in Cybersecurity, I am seeking new job opportunities in the fields of Identity and Access Management (IAM),Cybersecurity Analyst, Cybersecurity Engineering, SOC Analyst, and Cloud Engineering. My professional background encompasses expertise in IAM, threat detection and response, and cloud security, driven by a passion for protecting and securing information assets. I aim to leverage my practical experience and academic knowledge to contribute to the security and resilience of innovative organizations. I am eager to connect with professionals and organizations committed to cybersecurity excellence and innovation to explore potential opportunities and collaborations.
+## Projects
+![SIEM Projects](https://github.com/Vishal-Vallakati/Projects)
 
 
 ## Tools
